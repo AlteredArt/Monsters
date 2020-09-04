@@ -1,5 +1,4 @@
 import React from 'react';
-import robots from './robots'
 // import './card.styles.css';
 
 const Card = (props) => {
