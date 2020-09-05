@@ -2,7 +2,7 @@ import React from 'react';
 // import './card.styles.css';
 
 const Card = (props) => {
-    const {name, email, id} = props;
+    // const {name, email, id} = props;
     return (
         
 
